@@ -8,6 +8,6 @@ In this project, I will be assisting Ms. Maria who is Chief Data Scientist for a
 
 The purpose of the analysis is to assist the school board and superintended in making decision regarding the school budget, improvement requirement, professional developments and other priorities.
 
-* In this analysis, we will adhere full confidentiality of student personal information and comply with FERPA ( 20 U.S.C , 1232g; 34 CFR Part 99 ) *
+*In this analysis, we will adhere full confidentiality of student personal information and comply with FERPA ( 20 U.S.C , 1232g; 34 CFR Part 99.)*
 
 
