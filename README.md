@@ -16,27 +16,27 @@ Upon completion of this analysis, we are tasked to discover discrepancy(ies) tha
 
 In first part of the analysis, I will remove 9th grade scores for Math and Reading from Thomas High School. Hence, we will be able two determine the differentiation between initial reports and updated report. 
 
-Here, I utilized *Pandas* and *Numpy* dictionaries to remove those mentioned data from Thomas High School and refactor my initial code for demonstrating the following :
+Here, I utilized *Pandas* and *Numpy* libraries to remove those mentioned data from Thomas High School and refactor my initial code for demonstrating the following :
 
-*The district summary.
-*The school summary.
-*The top 5 and bottom 5 performing schools,based on the overall passing rate.
-*The average math score for each grade level from each school .
-*The average reading score for each grade level from each school .
-*The scores by school spending per student .
-*The scores by school size. 
-*The scores by school type.
+* Updated district summary.
+* Updated the school summary.
+* Updated the top 5 and bottom 5 performing schools,based on the overall passing rate.
+* Updated the average math score for each grade level from each school .
+* Updated the average reading score for each grade level from each school .
+* Updated the scores by school spending per student .
+* Updated the scores by school size. 
+* Updated the scores by school type.
 
 ## Results 
 
 #### How is the district summary affected?
-After removing 9th grade data from Thomas High School, we can observe following cnhanges
+After removing 9th grade data from Thomas High School, we can observe following changes:
 * Average Math Score        : Decreased by 0.1%
-* Average Math Score        : No Change
+* Average Math Score        : N/A
 * Passing Percent - Math    : Decreased by 0.2%
 * Passing Percent - Reading : Decreased by 0.3%
 * Overall Passing Percent   : Decreased by 0.1%
-* Total Budget              : No Change
+* Total Budget              : N/A
 
 Note: Since we did not change the number of students, total budget for the district remained same.(School districts usually receive budget from states according to  number of studetns they provide during snapshot window.  
 
@@ -51,13 +51,16 @@ Updated District Summary Metric by removing Thomas High School Data:
 
 #### How is the school summary affected?
 
-After removing 9th grade data from Thomas High School, we can observe following cnhanges
-* Average Math Score        : Decreased by 0.1%
-* Average Math Score        : No Change
-* Passing Percent - Math    : Decreased by 0.2%
-* Passing Percent - Reading : Decreased by 0.3%
-* Overall Passing Percent   : Decreased by 0.1%
-* Total Budget              : No Change
+After calculating metrics for Thomas High School, we can observe following changes:
+
+* Average Math Score         : Decreased by 0.06%
+* Average Math Score         : Increased by 0.05%
+* Passing Percent - Math     : Decreased by 27% 
+* Passing Percent - Reading  : Decreased by 28%
+* Overall Passing Percent    : Decreased by 26%
+* Total School Budget Budget : N/A
+* Per Student Budget         : N/A
+* School Rank                : Dropped from second to tenth position in the district. 
 
 
 
