@@ -54,5 +54,9 @@ Updated District Summary Metric by removing Thomas High School Data:
 
 
 
+<<<<<<< HEAD
+=======
+*In this analysis, we will adhere full confidentiality of student personal information and comply with FERPA ( 20 U.S.C , 1232g; 34 CFR Part 99.)*
+>>>>>>> 4b96f1f56249502afe542a9b57c62bfec7efc0ad
 
 
