@@ -70,18 +70,20 @@ After calculating metrics for Thomas High School, we can observe following chang
 <img width="1087" alt="Screen Shot 2022-02-22 at 6 59 27 PM" src="https://user-images.githubusercontent.com/98676400/155245457-2c7c6998-2d95-4cf8-a1fd-42e0606cc262.png">
 
 #### Replacing the ninth-grade scores affect on the following:
-* Math and reading scores by grade : There is not a significant changes in data in regard affect of replacing ninth-grade scores. 
+* Math and reading scores by grade : There is a dropped on math & reading scores however it is not a significant changes in data in regard affect of replacing ninth-grade scores. 
 
 
-##### Initial metrics for Math and reading scores by grade
+<p align ="center"> Initial metrics for Math and reading scores by grade </p>
 <p align ="center">
   
 <img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155261092-59696417-d040-4bc4-a7ca-156d94db42cb.png">
 <img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155261102-f836775c-35b3-49fc-bfa4-d28c68ea975b.png" >
 
 </p>
-
-##### Updated metrics for Math and reading scores by grade 
+                                                                                                                            
+                                                                                                                               
+                                                                                                                   
+<p align ="center"> Updated metrics for Math and reading scores by grade </p>
 
 <p align ="center">
   
@@ -90,10 +92,16 @@ After calculating metrics for Thomas High School, we can observe following chang
 
 </p>
 
-#### Chages Scores by school spending
+#### Chages Scores by school spending:
+
+<p align ="center">
+  
+<img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155263518-5f894d59-6163-48eb-88e4-00ef51c15b26.png">
+<img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155263523-e885fd9b-6840-4ac8-9294-26ad981a6fe5.png">
+
+</p>
 Scores by school size
 Scores by school type
-
 
 
 
