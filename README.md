@@ -60,15 +60,14 @@ After calculating metrics for Thomas High School, we can observe following chang
 * Overall Passing Percent    : Decreased by 26%
 * Total School Budget Budget : N/A
 * Per Student Budget         : N/A
-* School Rank                : Dropped from second to tenth position in the district. 
+* School Rank                : Dropped from second to eigth position in the district. 
 
 
 
 <img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155205186-4ed4ec43-f247-437c-aef1-f68bf5153a34.PNG">
 
 
-
-<img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155205195-903725fb-2073-4cd4-adba-42b720f3d8d3.PNG" >
+<img width="1087" alt="Screen Shot 2022-02-22 at 6 59 27 PM" src="https://user-images.githubusercontent.com/98676400/155245457-2c7c6998-2d95-4cf8-a1fd-42e0606cc262.png">
 
 
 
