@@ -16,7 +16,7 @@ Upon completion of this analysis, we are tasked to discover discrepancy(ies) tha
 
 In first part of the analysis, I will remove 9th grade scores for Math and Reading from Thomas High School. Hence, we will be able two determine the differentiation between initial reports and updated report. 
 
-Here, I utilized *Pandas* and *Numpy* libraries to remove those mentioned data from Thomas High School and refactor my initial code for demonstrating the following :
+Here, I utilized *Pandas* and *Numpy* to remove those mentioned data from Thomas High School and refactor my initial code for demonstrating the following :
 
 * Updated district summary.
 * Updated the school summary.
@@ -37,7 +37,7 @@ After removing 9th grade data from Thomas High School, we can observe following 
 * Overall Passing Percent   : Decreased by 0.1%
 * Total Budget              : N/A
 
-Note: Since we did not change the number of students, total budget for the district remained same.(School districts usually receive budget from states according to  number of studetns they provide during snapshot window.  
+Note: Since we did not change the number of students, total budget for the district remained same.(School districts usually receive budget from states according to  number of students they provide during snapshot window.  
 
 Initial District Summary Metric:
 <img width="943" alt="Screen Shot 2022-02-23 at 10 09 41 AM" src="https://user-images.githubusercontent.com/98676400/155359296-f7f9317e-de4b-49c1-b897-70789dae1d22.png"> 
@@ -76,8 +76,7 @@ Initial metrics for Math and reading scores by grade:
 
 </p>
                                                                                                                             
-                                                                                                                               
-                                                                                                                   
+                                                     
 Updated metrics for Math and reading scores by grade:
 
 <p align ="center">
@@ -89,7 +88,7 @@ Updated metrics for Math and reading scores by grade:
 
 #### 4. Affect on Scores by school spending:
 
-There is a slight/insignificant change in $630-644 range where Thomas School Distirct was placed. 
+There is a slight/insignificant change in $630-644 range where Thomas School District was placed. 
 * Average Math Score         : Decreased by 0.01%
 * Average Reading Score      : Increased by 0.01%
 * Passing Percent - Math     : Decreased by 0.02% 
@@ -133,7 +132,7 @@ Updated metrics for Scores by school size:
 
 
 #### 6. Scores by school type
-Since Thomas High School is one of the Charter School we are able to observe some changes in Charter School Summarry as following : 
+Since Thomas High School is one of the Charter School we are able to observe some changes in Charter School Summary as following : 
 * Average Math Score         : Decreased by 0.01%
 * Average Reading Score      : Increased by 0.01%
 * Passing Percent - Math     : Decreased by 0.01% 
@@ -147,8 +146,8 @@ Since Thomas High School is one of the Charter School we are able to observe som
 
 1. There is a significant decreased on Overall Passing Rate on School Summary as we removed 9th grade scores from Thomas High School. Therefore, Thomas HS is not competitive among charter schools. 
 2. We can observe that Thomas High school is one of the Top 5 school in original data, however after removing 9th grade data, its place went down to 8th in ranking. 
-3.
-4. 
+3. 
+4. There is not a significant changes in District Summary Metric despite of removing  Thomas HS 9th graders scores. In order to make better decision, 9th grade Biology standardized test might be included.
 
 
 
