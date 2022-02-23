@@ -146,7 +146,7 @@ Since Thomas High School is one of the Charter School we are able to observe som
 
 1. There is a significant decreased on Overall Passing Rate on School Summary as we removed 9th grade scores from Thomas High School. Therefore, Thomas HS is not competitive among charter schools. 
 2. We can observe that Thomas High school is one of the Top 5 school in original data, however after removing 9th grade data, its place went down to 8th in ranking. 
-3. 
+3. After removing ninth grade score we saw a dramtic decreased on Math Reading statistics, however once we seek for 10th-12th grade data , numbers increased and reach almost same level with the initial data. 
 4. There is not a significant changes in District Summary Metric despite of removing  Thomas HS 9th graders scores. In order to make better decision, 9th grade Biology standardized test might be included.
 
 
