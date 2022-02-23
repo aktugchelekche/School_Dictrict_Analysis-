@@ -20,7 +20,6 @@ Here, I utilized *Pandas* and *Numpy* libraries to remove those mentioned data f
 
 * Updated district summary.
 * Updated the school summary.
-* Updated the top 5 and bottom 5 performing schools,based on the overall passing rate.
 * Updated the average math score for each grade level from each school .
 * Updated the average reading score for each grade level from each school .
 * Updated the scores by school spending per student .
@@ -41,13 +40,10 @@ After removing 9th grade data from Thomas High School, we can observe following 
 Note: Since we did not change the number of students, total budget for the district remained same.(School districts usually receive budget from states according to  number of studetns they provide during snapshot window.  
 
 Initial District Summary Metric:
+<img width="943" alt="Screen Shot 2022-02-23 at 10 09 41 AM" src="https://user-images.githubusercontent.com/98676400/155359296-f7f9317e-de4b-49c1-b897-70789dae1d22.png"> 
 
-  <img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155202144-27af796b-3f51-4a48-828d-253eeabc9f37.PNG">
-
-Updated District Summary Metric by removing Thomas High School Data:
-
-<img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155201879-2b1b5d40-9df2-4783-a8db-accefed4a39f.PNG ">
-            
+Updated District Summary Metric by removing Thomas High School Data:           
+<img width="963" alt="Screen Shot 2022-02-23 at 10 10 04 AM" src="https://user-images.githubusercontent.com/98676400/155359284-ba810a32-8e2f-40ee-b783-6b355e9a5c95.png">
 
 #### 2.Affects on  the school summary :
 
@@ -110,7 +106,7 @@ Updated metrics for scores by school spending
 </p>
 
 #### 5. Affect on Scores by school size:
-The only changes was on medium size( 1000-2000 students)schools ranges where Thomas High School located in . 
+The only changes was on medium size(1000-2000 students)schools ranges where Thomas High School located in . 
 * Average Math Score         : Decreased by 0.01%
 * Average Reading Score      : Increased by 0.01%
 * Passing Percent - Math     : Decreased by 0.01% 
@@ -137,6 +133,22 @@ Updated metrics for Scores by school size:
 
 
 #### 6. Scores by school type
+Since Thomas High School is one of the Charter School we are able to observe some changes in Charter School Summarry as following : 
+* Average Math Score         : Decreased by 0.01%
+* Average Reading Score      : Increased by 0.01%
+* Passing Percent - Math     : Decreased by 0.01% 
+* Passing Percent - Reading  : Decreased by 0.03%
+* Overall Passing Percent    : Decreased by 0.04%
+
+<img width="730" alt="Screen Shot 2022-02-23 at 10 00 31 AM" src="https://user-images.githubusercontent.com/98676400/155357371-7792ddae-a4f1-48c9-915f-31195eda5fe3.png">
+<img width="736" alt="Screen Shot 2022-02-23 at 9 59 55 AM" src="https://user-images.githubusercontent.com/98676400/155357377-2ccca5be-2956-44b7-9871-b400e6945b68.png">
+
+## Summary :
+
+1. There is a significant decreased on Overall Passing Rate on School Summary as we removed 9th grade scores from Thomas High School. Therefore, Thomas HS is not competitive among charter schools. 
+2. We can observe that Thomas High school is one of the Top 5 school in original data, however after removing 9th grade data, its place went down to 8th in ranking. 
+3.
+4. 
 
 
 
