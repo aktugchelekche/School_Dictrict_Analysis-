@@ -65,6 +65,9 @@ After calculating metrics for Thomas High School, we can observe following chang
 
 <img width="1087" alt="Screen Shot 2022-02-22 at 6 59 27 PM" src="https://user-images.githubusercontent.com/98676400/155245457-2c7c6998-2d95-4cf8-a1fd-42e0606cc262.png">
 
+Note : However, after using only 10th-12th grade students data from Thomas High School metrics become almost identical.
+
+
 #### 3. Affect on Math and reading scores by replacing the ninth grade scores are following:
 * Math and reading scores by grade : There is a dropped on math & reading scores however it is not a significant changes in data in regard affect of replacing ninth-grade scores. 
 
@@ -85,6 +88,7 @@ Updated metrics for Math and reading scores by grade:
 <img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155261617-c875f323-ec9b-40f2-b1ae-db92701196ec.png" >
 
 </p>
+
 
 #### 4. Affect on Scores by school spending:
 
@@ -144,10 +148,10 @@ Since Thomas High School is one of the Charter School we are able to observe som
 
 ## Summary :
 
-1. There is a significant decreased on Overall Passing Rate on School Summary as we removed 9th grade scores from Thomas High School. Therefore, Thomas HS is not competitive among charter schools. 
+1. 
 2. We can observe that Thomas High school is one of the Top 5 school in original data, however after removing 9th grade data, its place went down to 8th in ranking. 
-3. After removing ninth grade score we saw a dramtic decreased on Math Reading statistics, however once we seek for 10th-12th grade data , numbers increased and reach almost same level with the initial data. 
-4. There is not a significant changes in District Summary Metric despite of removing  Thomas HS 9th graders scores. In order to make better decision, 9th grade Biology standardized test might be included.
+3. After removing ninth grade score we saw a dramtic decreased on Math Reading statistics, however once we seek for 10th-12th grade data , numbers increased and reach almost same level with the initial data. tha implies, 9th grades scores were not a major impact on overall passing in Thomas High School
+4. There is not a significant changes in District Summary Metric despite of removing Thomas HS 9th graders scores. In order to make better decision, 9th grade Biology standardized test might be included.
 
 
 
