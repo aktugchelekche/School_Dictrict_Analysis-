@@ -29,7 +29,7 @@ Here, I utilized *Pandas* and *Numpy* libraries to remove those mentioned data f
 
 ## Results 
 
-#### Affects on the district summary :
+#### 1. Affects on the district summary :
 After removing 9th grade data from Thomas High School, we can observe following changes:
 * Average Math Score        : Decreased by 0.1%
 * Average Math Score        : N/A
@@ -49,7 +49,7 @@ Updated District Summary Metric by removing Thomas High School Data:
 <img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155201879-2b1b5d40-9df2-4783-a8db-accefed4a39f.PNG ">
             
 
-#### Affects on  the school summary :
+#### 2.Affects on  the school summary :
 
 After calculating metrics for Thomas High School, we can observe following changes:
 
@@ -69,11 +69,10 @@ After calculating metrics for Thomas High School, we can observe following chang
 
 <img width="1087" alt="Screen Shot 2022-02-22 at 6 59 27 PM" src="https://user-images.githubusercontent.com/98676400/155245457-2c7c6998-2d95-4cf8-a1fd-42e0606cc262.png">
 
-#### Replacing the ninth-grade scores affect on the following:
+#### 3. Replacing the ninth-grade scores affect on the following:
 * Math and reading scores by grade : There is a dropped on math & reading scores however it is not a significant changes in data in regard affect of replacing ninth-grade scores. 
 
-
-<p align ="center"> Initial metrics for Math and reading scores by grade </p>
+Initial metrics for Math and reading scores by grade:
 <p align ="center">
   
 <img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155261092-59696417-d040-4bc4-a7ca-156d94db42cb.png">
@@ -83,7 +82,7 @@ After calculating metrics for Thomas High School, we can observe following chang
                                                                                                                             
                                                                                                                                
                                                                                                                    
-<p align ="center"> Updated metrics for Math and reading scores by grade </p>
+Updated metrics for Math and reading scores by grade:
 
 <p align ="center">
   
@@ -92,7 +91,7 @@ After calculating metrics for Thomas High School, we can observe following chang
 
 </p>
 
-#### Chages Scores by school spending:
+#### 4. Chages Scores by school spending:
 
 <p align ="center">
   
