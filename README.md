@@ -54,7 +54,7 @@ Updated District Summary Metric by removing Thomas High School Data:
 After calculating metrics for Thomas High School, we can observe following changes:
 
 * Average Math Score         : Decreased by 0.06%
-* Average Math Score         : Increased by 0.05%
+* Average Reading Score      : Increased by 0.05%
 * Passing Percent - Math     : Decreased by 27% 
 * Passing Percent - Reading  : Decreased by 28%
 * Overall Passing Percent    : Decreased by 26%
@@ -69,7 +69,7 @@ After calculating metrics for Thomas High School, we can observe following chang
 
 <img width="1087" alt="Screen Shot 2022-02-22 at 6 59 27 PM" src="https://user-images.githubusercontent.com/98676400/155245457-2c7c6998-2d95-4cf8-a1fd-42e0606cc262.png">
 
-#### 3. Replacing the ninth-grade scores affect on the following:
+#### 3. Affect on Math and reading scores by replacing the ninth grade scores are following:
 * Math and reading scores by grade : There is a dropped on math & reading scores however it is not a significant changes in data in regard affect of replacing ninth-grade scores. 
 
 Initial metrics for Math and reading scores by grade:
@@ -91,16 +91,54 @@ Updated metrics for Math and reading scores by grade:
 
 </p>
 
-#### 4. Chages Scores by school spending:
+#### 4. Affect on Scores by school spending:
+
+There is a slight/insignificant change in $630-644 range where Thomas School Distirct was placed. 
+* Average Math Score         : Decreased by 0.01%
+* Average Reading Score      : Increased by 0.01%
+* Passing Percent - Math     : Decreased by 0.02% 
+* Passing Percent - Reading  : Decreased by 0.08%
+* Overall Passing Percent    : Decreased by 0.07%
+
+Initial metrics for scores by school spending
+<p align ="center">
+  <img width="855" alt="Screen Shot 2022-02-23 at 9 32 29 AM" src="https://user-images.githubusercontent.com/98676400/155351831-e4a8d2f5-36f4-4ffe-9968-8624ea17ee7a.png">
+</p>
+Updated metrics for scores by school spending
+<p align ="center">
+<img width="846" alt="Screen Shot 2022-02-23 at 9 31 48 AM" src="https://user-images.githubusercontent.com/98676400/155351845-9bca2914-9110-4524-9901-ab5d52179c40.png">
+</p>
+
+#### 5. Affect on Scores by school size:
+The only changes was on medium size( 1000-2000 students)schools ranges where Thomas High School located in . 
+* Average Math Score         : Decreased by 0.01%
+* Average Reading Score      : Increased by 0.01%
+* Passing Percent - Math     : Decreased by 0.01% 
+* Passing Percent - Reading  : Decreased by 0.06%
+* Overall Passing Percent    : Decreased by 0.07%
+
+Initial metrics for Scores by school size:
 
 <p align ="center">
   
-<img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155263518-5f894d59-6163-48eb-88e4-00ef51c15b26.png">
-<img  alt="Screen Shot 2022-02-14 at 10 24 55 AM" src="https://user-images.githubusercontent.com/98676400/155263523-e885fd9b-6840-4ac8-9294-26ad981a6fe5.png">
+<img width="788" alt="Screen Shot 2022-02-23 at 9 44 55 AM" src="https://user-images.githubusercontent.com/98676400/155354241-8a12793d-fe44-4ae3-b08d-b85ae1268323.png">
+  
+</p>
+
+Updated metrics for Scores by school size:
+
+<p align ="center">
+
+<img width="795" alt="Screen Shot 2022-02-23 at 9 45 40 AM" src="https://user-images.githubusercontent.com/98676400/155354396-7266708d-8d0d-4ea0-9120-af4378d0bb51.png">
+
 
 </p>
-Scores by school size
-Scores by school type
+
+
+
+#### 6. Scores by school type
+
+
 
 
 
